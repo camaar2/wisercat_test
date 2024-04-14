@@ -1,9 +1,9 @@
 # Angulari registreerimisvormi rakendus
-Tere! See on minu testtöö Junior Front End arendaja kohale. Kasutasin esimest korda Angulari ja rakendasin teadmisi, mida olen peale testtöö saamist omandanud. See Angulari rakendus pakub lihtsat registreerimisvormi koos nime, perekonnanime, e-posti ja töökogemuse valideerimisega.
+Tere! See on minu testtöö Junior Front End arendaja kohale. See Angulari rakendus pakub lihtsat registreerimisvormi koos nime, perekonnanime, e-posti ja töökogemuse valideerimisega.
 
 # Failid
 
-`src/app` kaustas on kaks peamist komponenti: `message` ja `app`. `Message` komponent on loodud info kuvamiseks, nagu vead, info ja õnnestumised. `App` komponent on peamiseks komponendiks, kus on kujunduse ja vormi põhiline osa, lisaks logode ja päisega väljad ja nende valideerimine.
+`src/app` kaustas on kaks peamist komponenti: `message` ja `app`. `Message` komponent on loodud info kuvamiseks, nagu vead, info ja õnnestumised. `App` komponent on peamiseks komponendiks, kus on kujunduse ja vormi põhiline osa, lisaks logode ja päisega väljad ja vormi väljade valideerimine.
 
 ## Faili avamiseks
 
