@@ -11,11 +11,12 @@ Selle rakenduse paigaldamiseks ja kohalikul masinal käitamiseks järgige järgm
 1. Klooni repositoorium oma kohalikku masinasse:
 git clone https://github.com/camaar2/wisercat_test.git
 2. Navigeeri projekti kausta:
+cd src 
 cd app
 3. Paigalda sõltuvused:
-npm install
+npm install (selleks oleks vaja alla laadida Node.js node package manager(npm))
 4. Käivita arendusserver:
-ng serve
+ng serve (selleks oleks vaja alla laadida Angular CLI (npm install -g @angular/cli))
 5. Ava oma veebibrauser ja külasta `http://localhost:4200`, et vaadata rakendust.
 
 ## Kasutamine
